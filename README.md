@@ -10,7 +10,7 @@ This repository contains a script that automates the process of installing Pytho
 
 ## Usage
 
-1. **Download Script**: Users can download the provided `.bat` file from this repository or create a new file using a text editor and save it with the `.bat` extension.
+1. **Download Script**: Users can download the provided `.cmd` file from this repository or create a new file using a text editor and save it with the `.cmd` extension.
 
 2. The script is configured to run with **administrator privileges** automatically to ensure successful installation.
 
@@ -18,7 +18,7 @@ This repository contains a script that automates the process of installing Pytho
 
 ## Script
 
-The repository contains a `.bat` script that encapsulates the installation process. The script is thoroughly documented for ease of understanding and customization.
+The repository contains a `.cmd` script that encapsulates the installation process. The script is thoroughly documented for ease of understanding and customization.
 
 ```batch
 @echo off
